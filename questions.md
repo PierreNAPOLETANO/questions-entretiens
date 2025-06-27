@@ -25,4 +25,4 @@
 2. Est-ce que les développeurs font des reviews de code ?
 3. Est-ce qu'il y a des fonctionnalités que vous aimeriez ajouter mais pour l'instant pas possible soit par anque de temps ?
 4. Est-ce qu'il y a des outils que vous aimeriez proposer ?
-5. Pourquoi avoir choisit PHP - Laravel ?
+5. Pourquoi avoir choisit telle et telle technologie ?
