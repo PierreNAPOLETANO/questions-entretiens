@@ -12,7 +12,7 @@
 1. Est-ce vous avez conçu une librairie de composant pouvant être utiliser pour vos divers applications ?
 
 ### Commun
-1. Est-ce vous concevait des API GraphQL ?
+1. Est-ce vous concevez des API GraphQL ?
 2. Est-ce vous utiliser de la clean-architecture ?
 3. Est-ce que vous contribuer à des librairies autre que celle que vous avez créer ?
 4. Est-ce que vous avez conçu en interne un guide bonne pratique ?
@@ -22,4 +22,7 @@
 
 ### Culture d'entreprise
 1. Y a-t-il des opportunités de formation ou de participation à des conférences pour rester à jour avec les nouvelles technologies ?
-2. Est-ce que les développeurs font des reviues de code ?
+2. Est-ce que les développeurs font des reviews de code ?
+3. Est-ce qu'il y a des fonctionnalités que vous aimeriez ajouter mais pour l'instant pas possible soit par anque de temps ?
+4. Est-ce qu'il y a des outils que vous aimeriez proposer ?
+5. Pourquoi avoir choisit PHP - Laravel ?
